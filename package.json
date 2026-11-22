@@ -1,18 +1,22 @@
 {
-  "name": "baileys",
+  "name": "hina-baileys",
   "type": "module",
   "version": "7.0.0-rc14",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "description": "مكتبة واتساب (WhatsApp Web) — نسخة ᯓ★ Hina ᯓ★ مبنية على Baileys",
   "keywords": [
     "whatsapp",
-    "automation"
+    "automation",
+    "baileys",
+    "hina",
+    "whatsapp-bot"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/dwhhhg8-code/Hina-Baileys#readme",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "type": "git",
+    "url": "git+https://github.com/dwhhhg8-code/Hina-Baileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "𝐡𝐚𝐢𝐭𝐡𝐚𝐦 (Hina)",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -134,5 +138,16 @@
   "engines": {
     "node": ">=20.0.0"
   },
-  "hinaFork": "dwhhhg8-code/Hina-Baileys — lib/ مبني وجاهز (بدون build وقت التثبيت)"
+  "hinaFork": "dwhhhg8-code/Hina-Baileys — lib/ مبني وجاهز (بدون build وقت التثبيت)",
+  "bugs": {
+    "url": "https://github.com/dwhhhg8-code/Hina-Baileys/issues"
+  },
+  "contributors": [
+    "𝐡𝐚𝐢𝐭𝐡𝐚𝐦 (Hina) <https://github.com/hhgdwh40-maker>"
+  ],
+  "upstream": {
+    "name": "WhiskeySockets/Baileys",
+    "tag": "v7.0.0-rc14",
+    "license": "MIT"
+  }
 }
